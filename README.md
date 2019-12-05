@@ -4,9 +4,18 @@
 yarn install
 ```
 
+For development
+
 ```bash
 yarn dev
 ```
+
+For build
+
+```bash
+yarn start
+```
+
 
 # CONFIGURATION
 
